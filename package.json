@@ -1,0 +1,14 @@
+{
+  "name": "solana-trading-bot",
+  "version": "1.0.0",
+  "description": "Solana token scanner and paper trading bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.2"
+  }
+}
